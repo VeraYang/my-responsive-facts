@@ -1,1 +1,120 @@
 
+body {
+  background:grey;
+  margin:0 auto;
+}
+p {
+  display:none;
+  line-height:1.45;
+  font-size:25px;
+  margin-left:20px;
+}
+
+@media (min-width:840px) and (max-width:1150px) {
+
+  body{
+    background:#F5A9A9;
+  }
+  .f1{
+    display:inline;
+  }
+
+}
+
+@media (min-width:710px) and (max-width:840px) {
+
+  body{
+    background:#A9F5D0;
+  }
+    .f1{
+    display:inline;
+  }
+    .f2{
+    display:inline;
+  }
+}
+
+@media (min-width:580px) and (max-width:710px) {
+
+  body{
+    background:#F3F781;
+  }
+      .f1{
+    display:inline;
+  }
+    .f2{
+    display:inline;
+  }
+  .f3{
+    display:inline;
+  }
+
+}
+
+@media (min-width:450px) and (max-width:580px) {
+
+  body{
+    background:#AC58FA;
+  }
+        .f1{
+    display:inline;
+  }
+    .f2{
+    display:inline;
+  }
+  .f3{
+    display:inline;
+  }
+  .f4{
+    display:inline;
+  }
+
+}
+
+@media (min-width:320px) and (max-width:450px) {
+
+  body{
+    background:pink;
+  }
+         .f1{
+    display:inline;
+  }
+    .f2{
+    display:inline;
+  }
+  .f3{
+    display:inline;
+  }
+  .f4{
+    display:inline;
+  }
+  .f5{
+    display:inline;
+  }
+
+}
+
+@media (min-width:0px) and (max-width:320px) {
+
+  body{
+    background:#A9D0F5;
+  }
+           .f1{
+    display:inline;
+  }
+    .f2{
+    display:inline;
+  }
+  .f3{
+    display:inline;
+  }
+  .f4{
+    display:inline;
+  }
+  .f5{
+    display:inline;
+  }
+  .f6{
+    display:inline;
+  }
+}
