@@ -74,7 +74,7 @@ p {
 @media (min-width:320px) and (max-width:450px) {
 
   body{
-    background:pink;
+    background:#FFCC66;
   }
          .f1{
     display:inline;
