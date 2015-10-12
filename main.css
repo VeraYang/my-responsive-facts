@@ -93,7 +93,7 @@ p {
 
 }
 
-@media (min-width:0px) and (max-width:500px) {
+@media (min-width:320px) and (max-width:450px) {
 
   body{
     background:#A9D0F5;
